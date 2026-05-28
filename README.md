@@ -36,6 +36,8 @@ I'm a passionate full-stack developer with a knack for building scalable web app
 ### ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ultimate 1-Minute Xray/3x-ui Setup: VLESS, Hysteria2, Caddy Self-Steal &amp; Smart Outbounds in One Script](https://dev.to/dmitryganin/ultimate-1-minute-xray3x-ui-setup-vless-hysteria2-caddy-self-steal-smart-outbounds-in-one-594d)
+- [Zero-Cost AI in VS Code](https://dev.to/dmitryganin/zero-cost-ai-in-vs-code-2g24)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Contact
