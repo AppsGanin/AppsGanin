@@ -1,0 +1,21 @@
+name: Update blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # каждый день в 6:00 UTC
+  workflow_dispatch: # запуск вручную из GitHub Actions
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/dmitryganin"
+          max_post_count: 5
+          readme_path: README.md
+          comment_tag_name: BLOG-POST-LIST
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
