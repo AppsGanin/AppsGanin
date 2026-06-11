@@ -36,6 +36,7 @@ I'm a passionate full-stack developer with a knack for building scalable web app
 ### ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Mac Has 80GB of Hidden Junk. Here&#39;s How to Find It.](https://dev.to/dmitryganin/your-mac-has-80gb-of-hidden-junk-heres-how-to-find-it-543g)
 - [Вечер на автоматизацию GitHub-ачивок](https://dev.to/dmitryganin/viechier-na-avtomatizatsiiu-github-achivok-chto-poshlo-nie-tak-i-pochiemu-eto-intieriesno-3o5o)
 - [Ultimate 1-Minute Xray/3x-ui Setup: VLESS, Hysteria2, Caddy Self-Steal &amp; Smart Outbounds in One Script](https://dev.to/dmitryganin/ultimate-1-minute-xray3x-ui-setup-vless-hysteria2-caddy-self-steal-smart-outbounds-in-one-594d)
 - [Zero-Cost AI in VS Code](https://dev.to/dmitryganin/zero-cost-ai-in-vs-code-2g24)
