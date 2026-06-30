@@ -49,6 +49,7 @@ I'm a passionate full-stack developer with a knack for building scalable web app
 
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dmitryganin)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AppsGanin)
+[![Donate](https://img.shields.io/badge/Поддержать-DonationAlerts-fb7押15?style=for-the-badge&logo=donate)](https://www.donationalerts.com/r/dmitryapp)
 [![Boosty](https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/githubapps)
 
 </div>
