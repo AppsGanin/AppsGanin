@@ -36,11 +36,11 @@ I'm a passionate full-stack developer with a knack for building scalable web app
 ### ✍️ Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Свой VLESS-прокси бесплатно одной командой: Xray + XHTTP на Alwaysdata](https://dev.to/dmitryganin/svoi-vless-proksi-biesplatno-odnoi-komandoi-xray-xhttp-na-alwaysdata-3fh1)
 - [Your agent didn&#39;t fail. You closed the lid](https://dev.to/dmitryganin/your-agent-didnt-fail-you-closed-the-lid-g8o)
 - [I built a macOS app that bricks your Mac for 30 seconds so you can clean it](https://dev.to/dmitryganin/i-built-a-macos-app-that-bricks-your-mac-for-30-seconds-so-you-can-clean-it-3a6j)
 - [Рабочий VPN-конфиг за пару секунд без покупки сервера: генератор Cloudflare WARP с обходом DPI](https://dev.to/dmitryganin/rabochii-vpn-konfigh-za-paru-siekund-biez-pokupki-sierviera-ghienierator-cloudflare-warp-s-obkhodom-dpi-339a)
 - [Лёгкая панель для управления личным VPN-сервером на Xray](https://dev.to/dmitryganin/lioghkaia-paniel-dlia-upravlieniia-lichnym-vpn-siervierom-na-xray-ef9)
-- [Your Mac Has 80GB of Hidden Junk. Here&#39;s How to Find It.](https://dev.to/dmitryganin/your-mac-has-80gb-of-hidden-junk-heres-how-to-find-it-543g)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Contact
